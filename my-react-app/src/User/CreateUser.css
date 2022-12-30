@@ -1,0 +1,19 @@
+form{
+    width: 80px;
+    padding: 20px;
+    margin: 200px 450px;
+}
+input {
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    font-size: 16px;
+    padding: 8px;
+  }
+  fieldset{
+    padding: 40px;
+  }
+  button{
+    margin: 20px 0px;
+    cursor: pointer;
+  }
+  
